@@ -1,0 +1,1 @@
+game = new Game(1280,720,"white")
